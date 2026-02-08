@@ -12,19 +12,8 @@ SPLIT_SIZE = 500
 MAX_SUB_FILES = 40
 
 SOURCES = [
-    "https://raw.githubusercontent.com/myohtetpaing2021/SS-Live-Servers/refs/heads/main/SS%20Live%20Servers",
-    "https://raw.githubusercontent.com/myohtetpaing2021/SS-Live-Servers/refs/heads/main/BIZ%20Live%20Server",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
-    "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Sub7.txt",
+    "https://bypass.shayshayblack.dpdns.org/fb226b97-8410-41b0-ab28-121d4ab9c7c1/sub",
+    
  
 ]
 
